@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project implements a complete Machine Learning pipeline to predict student academic grades using supervised classification techniques. The goal is to analyze student-related attributes and classify final grades (A, B, C, D, F) using predictive modeling.
 
@@ -10,7 +10,7 @@ The project demonstrates data preprocessing, feature engineering, model training
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Given student performance data, predict the final grade category using machine learning classification models.
 
@@ -22,7 +22,7 @@ Target Variable:
 
 ---
 
-## 📊 Dataset Processing Steps
+##  Dataset Processing Steps
 
 1. Dataset exploration (shape, columns, data types, missing values)
 2. Feature-target separation
@@ -33,7 +33,7 @@ Target Variable:
 
 ---
 
-## ⚙️ Technologies & Libraries Used
+##  Technologies & Libraries Used
 
 - Python
 - Pandas
@@ -54,7 +54,7 @@ Key sklearn modules:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project successfully demonstrates a full machine learning classification workflow, from raw data preprocessing to model training and prediction export. Random Forest provided robust performance for multi-class grade prediction.
 
@@ -62,6 +62,6 @@ The project highlights the importance of preprocessing, encoding, and proper tra
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Name: Muhammad Mohsin Nehan  
